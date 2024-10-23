@@ -67,6 +67,6 @@ bukkitPluginYaml {
 
   version = project.version.toString()
   apiVersion = paperApiVersion
-  main = project.group.toString() + groupStringSeparator + "minecraft.plugins.armor.stands.better" + groupStringSeparator + pascalcase(rootProject.name)
+  main = project.group.toString() + groupStringSeparator + "minecraft.smps.slime.plugins.armor.stands.better" + groupStringSeparator + pascalcase(rootProject.name)
   load = BukkitPluginYaml.PluginLoadOrder.STARTUP
 }

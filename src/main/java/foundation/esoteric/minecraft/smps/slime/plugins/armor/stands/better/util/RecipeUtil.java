@@ -1,4 +1,4 @@
-package org.esoteric.minecraft.plugins.armor.stands.better.util;
+package foundation.esoteric.minecraft.smps.slime.plugins.armor.stands.better.util;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;

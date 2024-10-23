@@ -1,9 +1,9 @@
-package org.esoteric.minecraft.plugins.armor.stands.better.managers;
+package foundation.esoteric.minecraft.smps.slime.plugins.armor.stands.better.managers;
 
 import org.bukkit.entity.ArmorStand;
 import org.bukkit.util.EulerAngle;
 import org.jetbrains.annotations.NotNull;
-import org.esoteric.minecraft.plugins.armor.stands.better.BetterArmorStandsPlugin;
+import foundation.esoteric.minecraft.smps.slime.plugins.armor.stands.better.BetterArmorStandsPlugin;
 
 import java.util.ArrayList;
 

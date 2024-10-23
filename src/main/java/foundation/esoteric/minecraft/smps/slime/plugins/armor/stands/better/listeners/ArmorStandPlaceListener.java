@@ -1,4 +1,4 @@
-package org.esoteric.minecraft.plugins.armor.stands.better.listeners;
+package foundation.esoteric.minecraft.smps.slime.plugins.armor.stands.better.listeners;
 
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.entity.ArmorStand;
@@ -6,7 +6,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.CreatureSpawnEvent;
 import org.jetbrains.annotations.NotNull;
-import org.esoteric.minecraft.plugins.armor.stands.better.BetterArmorStandsPlugin;
+import foundation.esoteric.minecraft.smps.slime.plugins.armor.stands.better.BetterArmorStandsPlugin;
 
 public class ArmorStandPlaceListener implements Listener {
 

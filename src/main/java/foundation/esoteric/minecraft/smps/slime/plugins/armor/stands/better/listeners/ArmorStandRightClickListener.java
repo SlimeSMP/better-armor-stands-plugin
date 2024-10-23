@@ -1,4 +1,4 @@
-package org.esoteric.minecraft.plugins.armor.stands.better.listeners;
+package foundation.esoteric.minecraft.smps.slime.plugins.armor.stands.better.listeners;
 
 import org.bukkit.Material;
 import org.bukkit.configuration.file.YamlConfiguration;
@@ -10,8 +10,8 @@ import org.bukkit.event.player.PlayerInteractAtEntityEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.PlayerInventory;
 import org.jetbrains.annotations.NotNull;
-import org.esoteric.minecraft.plugins.armor.stands.better.BetterArmorStandsPlugin;
-import org.esoteric.minecraft.plugins.armor.stands.better.managers.PoseManager;
+import foundation.esoteric.minecraft.smps.slime.plugins.armor.stands.better.BetterArmorStandsPlugin;
+import foundation.esoteric.minecraft.smps.slime.plugins.armor.stands.better.managers.PoseManager;
 
 public class ArmorStandRightClickListener implements Listener {
 
