@@ -32,7 +32,7 @@ fun pascalcase(kebabcaseString: String): String {
 }
 
 val mainProjectAuthor = "Esoteric Organisation"
-val topLevelDomain = "org"
+val topLevelDomain = "foundation"
 val projectAuthors = listOfNotNull(mainProjectAuthor, "rolyPolyVole", "Esoteric Enderman")
 
 group = topLevelDomain + groupStringSeparator + "esoteric"
