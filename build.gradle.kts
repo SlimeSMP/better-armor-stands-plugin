@@ -31,7 +31,7 @@ fun pascalcase(kebabcaseString: String): String {
   return pascalCaseString
 }
 
-val mainProjectAuthor = "Esoteric Organisation"
+val mainProjectAuthor = "Esoteric Foundation"
 val topLevelDomain = "foundation"
 val projectAuthors = listOfNotNull(mainProjectAuthor, "rolyPolyVole", "Esoteric Enderman")
 
