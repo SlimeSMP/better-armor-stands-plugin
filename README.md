@@ -1,5 +1,7 @@
 # Better Armor Stands Plugin
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > A Minecraft plugin that adds the Bedrock Edition pose customisation to armor stands as well as allowing base-plate manipulation. Made for the [SLIME SMP](https://github.com/SlimeSMP)!
 
 ## License
